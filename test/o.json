@@ -1,0 +1,267 @@
+{
+    "status": 0,
+    "data": {
+        "serverTime": 1393989906845,
+        "pageNum": 2,
+        "pageSize": 10,
+        "count": 494,
+        "signTime": 0,
+        "list": [
+            {
+                "titleAll": "纽银基金 - 纽银稳定增利债券A",
+                "id": 347926410,
+                "title": "纽银基金 - 纽银稳定增利债券A",
+                "investCycle": "一个月以下",
+                "expectedProfitRate": "-0.99",
+                "expectedProfitName": "年净值增长率",
+                "lowestAmount": "1000元",
+                "breakEven": 0,
+                "supplierLogoUrl": "http://t12.baidu.com/it/u=4042382366,1500797995&fm=58",
+                "rawUrl": "http://caifu.baidu.com/rcv?module=finance&u=010845fe4b9c6c87adbffc0fbf52f1216c300ad7e80c8cb2f36a10ae09dfc36d0ca704b7186cc0f988d81c5f140805327e594bfe7aedfce737eae627445658ec37025cb2e7b5eac94be2ee0eb917df716ff6ed02422c8a6fe1d911847&o=010845fe4b9cdd361c0ac8ae9c3162a76f82c8c40a18fcc237cff55abc3ec2b96e8381533d8935c908d9587bb5785571cabcaf9acfe83cb2976ae7239053ce79a2567d32e7311b6c5f12ee7a68d67fc26a12a8a166693f3f558860c45cf46abbca075737dcc5fed91c8962251fbd8612d341e2be96a2d4be1ce9ec49d5e06720ecbc29e965a442c531910b632a49cea61cbd63a82d06365bb49a3d91bd28e68668ef14cbabb34efa2ea8b61efe43960c6f475435613c964e5f2ee7f976dc0a324402bfc8d35fa046ef06eba1186aec034de8054a1e8b9728b9341d20d16dad21a381823",
+                "risk": "稳健型",
+                "profitType": 0,
+                "profitDesc": [
+                    {
+                        "name": "收益说明",
+                        "value": "不同产品的预期年化收益率的含义有所区别，产品托管费率和手续费请咨询具体发售机构。"
+                    }
+                ],
+                "earlyBack": -1,
+                "earlyTransfer": -1,
+                "investField": "债券混合",
+                "productType": 3103,
+                "activityTab": 0
+            },
+            {
+                "titleAll": "华安基金 - 日日鑫",
+                "id": 348146442,
+                "title": "华安基金 - 日日鑫",
+                "investCycle": "一个月以下",
+                "expectedProfitRate": "5.91",
+                "expectedProfitName": "7日年化收益",
+                "lowestAmount": "100元",
+                "breakEven": 0,
+                "supplierLogoUrl": "http://www.huaan.com.cn/upload2010/2014/01/22/094602524_0_4e5c6304-f282-3af1-8700-ac874844952f.jpg",
+                "rawUrl": "http://caifu.baidu.com/rcv?module=finance&u=010845fe4b9c6c87adbffc0fbf52f1216c914a2749c87dc2575ec06e39cec3d8dfa6c467086c8089c8f9c9cac5f9e0c48a7c9faa7e2c8816861ed2c755c64&o=010845fe4b9cdd361c0ac8ae9c3162a76f82c8c40a18fcc237cff55abc3ec2b96e8381533d8935c908d9587bb5785571cabcaf9acfe83cb2976ae7239053ce79a2567d32e7311b6c5f12ee7a68d67fc26a12a8a166693f3f558860c45cf46abbca075737dcc5fed91c8962251fbd8612d341e2be96a2d4be1ce9ec49d5e06720ecbc29e965a442c531910b632a49cea61cbd63a82d06365bb49a3d91bd28e68668ef14cbabb34efa2ea8b61efe43960c6f475435613c964e5f2ee7f976dc0a324402bfc8d35fa046ef06eba1186aec034de8054a1e8b9728b9341d20d16dad21a381823",
+                "risk": "稳健型",
+                "profitType": 0,
+                "profitDesc": [
+                    {
+                        "name": "收益说明",
+                        "value": "不同产品的预期年化收益率的含义有所区别，产品托管费率和手续费请咨询具体发售机构。"
+                    }
+                ],
+                "earlyBack": -1,
+                "earlyTransfer": -1,
+                "investField": "货币市场",
+                "productType": "3103",
+                "activityTab": 0
+            },
+            {
+                "titleAll": "华安基金 - 纳指100",
+                "id": 348146445,
+                "title": "华安基金 - 纳指100",
+                "investCycle": "一个月以下",
+                "expectedProfitRate": "7.80",
+                "expectedProfitName": "年净值增长率",
+                "lowestAmount": "1000元",
+                "breakEven": 0,
+                "supplierLogoUrl": "http://www.huaan.com.cn/upload2010/2014/01/22/094602524_0_4e5c6304-f282-3af1-8700-ac874844952f.jpg",
+                "rawUrl": "http://caifu.baidu.com/rcv?module=finance&u=010845fe4b9c6c87adbffc0fbf52f1216c914a2749c87dc2575ec06e39cf9349eeb63507bcda50a9d8c83dbfe01c40e4ca0d4a3fba9df8b3e3cf6306c5d&o=010845fe4b9cdd361c0ac8ae9c3162a76f82c8c40a18fcc237cff55abc3ec2b96e8381533d8935c908d9587bb5785571cabcaf9acfe83cb2976ae7239053ce79a2567d32e7311b6c5f12ee7a68d67fc26a12a8a166693f3f558860c45cf46abbca075737dcc5fed91c8962251fbd8612d341e2be96a2d4be1ce9ec49d5e06720ecbc29e965a442c531910b632a49cea61cbd63a82d06365bb49a3d91bd28e68668ef14cbabb34efa2ea8b61efe43960c6f475435613c964e5f2ee7f976dc0a324402bfc8d35fa046ef06eba1186aec034de8054a1e8b9728b9341d20d16dad21a381823",
+                "risk": "稳健型",
+                "profitType": 0,
+                "profitDesc": [
+                    {
+                        "name": "收益说明",
+                        "value": "不同产品的预期年化收益率的含义有所区别，产品托管费率和手续费请咨询具体发售机构。"
+                    }
+                ],
+                "earlyBack": -1,
+                "earlyTransfer": -1,
+                "investField": "美股市场",
+                "productType": "3103",
+                "activityTab": 0
+            },
+            {
+                "titleAll": "华安基金 - 动态灵活配置混合",
+                "id": 348146448,
+                "title": "华安基金 - 动态灵活配置混合",
+                "investCycle": "一个月以下",
+                "expectedProfitRate": "27.84",
+                "expectedProfitName": "年净值增长率",
+                "lowestAmount": "1000元",
+                "breakEven": 0,
+                "supplierLogoUrl": "http://www.huaan.com.cn/upload2010/2014/01/22/094602524_0_4e5c6304-f282-3af1-8700-ac874844952f.jpg",
+                "rawUrl": "http://caifu.baidu.com/rcv?module=finance&u=010845fe4b9c6c87adbffc0fbf52f1216c914a2749c87dc2575ec06e39cf9349eeb63507bcda50a9d8c83dbfe01c40e49a3d4a3fba9df8b3e3cf6306c5d&o=010845fe4b9cdd361c0ac8ae9c3162a76f82c8c40a18fcc237cff55abc3ec2b96e8381533d8935c908d9587bb5785571cabcaf9acfe83cb2976ae7239053ce79a2567d32e7311b6c5f12ee7a68d67fc26a12a8a166693f3f558860c45cf46abbca075737dcc5fed91c8962251fbd8612d341e2be96a2d4be1ce9ec49d5e06720ecbc29e965a442c531910b632a49cea61cbd63a82d06365bb49a3d91bd28e68668ef14cbabb34efa2ea8b61efe43960c6f475435613c964e5f2ee7f976dc0a324402bfc8d35fa046ef06eba1186aec034de8054a1e8b9728b9341d20d16dad21a381823",
+                "risk": "稳健型",
+                "profitType": 0,
+                "profitDesc": [
+                    {
+                        "name": "收益说明",
+                        "value": "不同产品的预期年化收益率的含义有所区别，产品托管费率和手续费请咨询具体发售机构。"
+                    }
+                ],
+                "earlyBack": -1,
+                "earlyTransfer": -1,
+                "investField": "股票、债券",
+                "productType": "3103",
+                "activityTab": 0
+            },
+            {
+                "titleAll": "华安基金 - 逆向策略股票",
+                "id": 348146451,
+                "title": "华安基金 - 逆向策略股票",
+                "investCycle": "一个月以下",
+                "expectedProfitRate": "35.51",
+                "expectedProfitName": "年净值增长率",
+                "lowestAmount": "1000元",
+                "breakEven": 0,
+                "supplierLogoUrl": "http://www.huaan.com.cn/upload2010/2014/01/22/094602524_0_4e5c6304-f282-3af1-8700-ac874844952f.jpg",
+                "rawUrl": "http://caifu.baidu.com/rcv?module=finance&u=010845fe4b9c6c87adbffc0fbf52f1216c914a2749c87dc2575ec06e39cf9349eeb63507bcda50a9d8c83dbfe01c40e4ba3d4a3fba9df8b3e3cf6306c5d&o=010845fe4b9cdd361c0ac8ae9c3162a76f82c8c40a18fcc237cff55abc3ec2b96e8381533d8935c908d9587bb5785571cabcaf9acfe83cb2976ae7239053ce79a2567d32e7311b6c5f12ee7a68d67fc26a12a8a166693f3f558860c45cf46abbca075737dcc5fed91c8962251fbd8612d341e2be96a2d4be1ce9ec49d5e06720ecbc29e965a442c531910b632a49cea61cbd63a82d06365bb49a3d91bd28e68668ef14cbabb34efa2ea8b61efe43960c6f475435613c964e5f2ee7f976dc0a324402bfc8d35fa046ef06eba1186aec034de8054a1e8b9728b9341d20d16dad21a381823",
+                "risk": "稳健型",
+                "profitType": 0,
+                "profitDesc": [
+                    {
+                        "name": "收益说明",
+                        "value": "不同产品的预期年化收益率的含义有所区别，产品托管费率和手续费请咨询具体发售机构。"
+                    }
+                ],
+                "earlyBack": -1,
+                "earlyTransfer": -1,
+                "investField": "股票市场",
+                "productType": "3103",
+                "activityTab": 0
+            },
+            {
+                "titleAll": "富国基金 - 富国国有企业债债券A/B",
+                "id": 347926440,
+                "title": "富国基金 - 富国国有企业债债券A/B",
+                "investCycle": "一个月以下",
+                "expectedProfitRate": "0.80",
+                "expectedProfitName": "年净值增长率",
+                "lowestAmount": "100元",
+                "breakEven": 0,
+                "supplierLogoUrl": "http://t10.baidu.com/it/u=2737948062,1154601670&fm=58",
+                "rawUrl": "http://caifu.baidu.com/rcv?module=finance&u=010845fe4b9c6c87adbffc0fbf52f1216c300ad7e80c8cb2f36a10ae09dfc36d0ca704b7186ca089d8c80cdf140805327e594bfe7aedfce737eae627445658ec37025cb2e7b5eac94be2ee0eb917df716ff6ed02422c8a6fe1d911847&o=010845fe4b9cdd361c0ac8ae9c3162a76f82c8c40a18fcc237cff55abc3ec2b96e8381533d8935c908d9587bb5785571cabcaf9acfe83cb2976ae7239053ce79a2567d32e7311b6c5f12ee7a68d67fc26a12a8a166693f3f558860c45cf46abbca075737dcc5fed91c8962251fbd8612d341e2be96a2d4be1ce9ec49d5e06720ecbc29e965a442c531910b632a49cea61cbd63a82d06365bb49a3d91bd28e68668ef14cbabb34efa2ea8b61efe43960c6f475435613c964e5f2ee7f976dc0a324402bfc8d35fa046ef06eba1186aec034de8054a1e8b9728b9341d20d16dad21a381823",
+                "risk": "稳健型",
+                "profitType": 0,
+                "profitDesc": [
+                    {
+                        "name": "收益说明",
+                        "value": "不同产品的预期年化收益率的含义有所区别，产品托管费率和手续费请咨询具体发售机构。"
+                    }
+                ],
+                "earlyBack": -1,
+                "earlyTransfer": -1,
+                "investField": "债券混合",
+                "productType": 3103,
+                "activityTab": 0
+            },
+            {
+                "titleAll": "中银基金 - 中银盛利定期开放债券(LOF)",
+                "id": 347926491,
+                "title": "中银基金 - 中银盛利定期开放债券(LOF)",
+                "investCycle": "一个月以下",
+                "expectedProfitRate": "0.00",
+                "expectedProfitName": "年净值增长率",
+                "lowestAmount": "1000元",
+                "breakEven": 0,
+                "supplierLogoUrl": "http://t10.baidu.com/it/u=1594208589,3718942093&fm=58",
+                "rawUrl": "http://caifu.baidu.com/rcv?module=finance&u=010845fe4b9c6c87adbffc0fbf52f1216c300ad7e80c8cb2f36a10ae09dfc36d0ca704b7186cb0e9e8581c0f140805327e594bfe7aedfce737eae627445658ec37025cb2e7b5eac94be2ee0eb917df716ff6ed02422c8a6fe1d911847&o=010845fe4b9cdd361c0ac8ae9c3162a76f82c8c40a18fcc237cff55abc3ec2b96e8381533d8935c908d9587bb5785571cabcaf9acfe83cb2976ae7239053ce79a2567d32e7311b6c5f12ee7a68d67fc26a12a8a166693f3f558860c45cf46abbca075737dcc5fed91c8962251fbd8612d341e2be96a2d4be1ce9ec49d5e06720ecbc29e965a442c531910b632a49cea61cbd63a82d06365bb49a3d91bd28e68668ef14cbabb34efa2ea8b61efe43960c6f475435613c964e5f2ee7f976dc0a324402bfc8d35fa046ef06eba1186aec034de8054a1e8b9728b9341d20d16dad21a381823",
+                "risk": "稳健型",
+                "profitType": 0,
+                "profitDesc": [
+                    {
+                        "name": "收益说明",
+                        "value": "不同产品的预期年化收益率的含义有所区别，产品托管费率和手续费请咨询具体发售机构。"
+                    }
+                ],
+                "earlyBack": -1,
+                "earlyTransfer": -1,
+                "investField": "债券混合",
+                "productType": 3103,
+                "activityTab": 0
+            },
+            {
+                "titleAll": "安信基金 - 宝利B",
+                "id": 347926488,
+                "title": "安信基金 - 宝利B",
+                "investCycle": "一个月以下",
+                "expectedProfitRate": "-2.00",
+                "expectedProfitName": "年净值增长率",
+                "lowestAmount": "5万",
+                "breakEven": 0,
+                "supplierLogoUrl": "http://t12.baidu.com/it/u=4142845094,3088550965&fm=58",
+                "rawUrl": "http://caifu.baidu.com/rcv?module=finance&u=010845fe4b9c6c87adbffc0fbf52f1216c300ad7e80c8cb2f36a10ae09dfc36d0ca704b7186cb0d9d8c80c3f140805327e594bfe7aedfce737eae627445658ec37025cb2e7b5eac94be2ee0eb917df716ff6ed02422c8a6fe1d911847&o=010845fe4b9cdd361c0ac8ae9c3162a76f82c8c40a18fcc237cff55abc3ec2b96e8381533d8935c908d9587bb5785571cabcaf9acfe83cb2976ae7239053ce79a2567d32e7311b6c5f12ee7a68d67fc26a12a8a166693f3f558860c45cf46abbca075737dcc5fed91c8962251fbd8612d341e2be96a2d4be1ce9ec49d5e06720ecbc29e965a442c531910b632a49cea61cbd63a82d06365bb49a3d91bd28e68668ef14cbabb34efa2ea8b61efe43960c6f475435613c964e5f2ee7f976dc0a324402bfc8d35fa046ef06eba1186aec034de8054a1e8b9728b9341d20d16dad21a381823",
+                "risk": "稳健型",
+                "profitType": 0,
+                "profitDesc": [
+                    {
+                        "name": "收益说明",
+                        "value": "不同产品的预期年化收益率的含义有所区别，产品托管费率和手续费请咨询具体发售机构。"
+                    }
+                ],
+                "earlyBack": -1,
+                "earlyTransfer": -1,
+                "investField": "债券混合",
+                "productType": 3103,
+                "activityTab": 0
+            },
+            {
+                "titleAll": "浦银安盛基金 - 浦银安盛6个月定期债券C",
+                "id": 347926482,
+                "title": "浦银安盛基金 - 浦银安盛6个月定期债券C",
+                "investCycle": "一个月以下",
+                "expectedProfitRate": "-5.10",
+                "expectedProfitName": "年净值增长率",
+                "lowestAmount": "1000元",
+                "breakEven": 0,
+                "supplierLogoUrl": "http://t12.baidu.com/it/u=3903827105,1393037338&fm=58",
+                "rawUrl": "http://caifu.baidu.com/rcv?module=finance&u=010845fe4b9c6c87adbffc0fbf52f1216c300ad7e80c8cb2f36a10ae09dfc36d0ca704b7186cf09948c81c6f140805327e594bfe7aedfce737eae627445658ec37025cb2e7b5eac94be2ee0eb917df716ff6ed02422c8a6fe1d911847&o=010845fe4b9cdd361c0ac8ae9c3162a76f82c8c40a18fcc237cff55abc3ec2b96e8381533d8935c908d9587bb5785571cabcaf9acfe83cb2976ae7239053ce79a2567d32e7311b6c5f12ee7a68d67fc26a12a8a166693f3f558860c45cf46abbca075737dcc5fed91c8962251fbd8612d341e2be96a2d4be1ce9ec49d5e06720ecbc29e965a442c531910b632a49cea61cbd63a82d06365bb49a3d91bd28e68668ef14cbabb34efa2ea8b61efe43960c6f475435613c964e5f2ee7f976dc0a324402bfc8d35fa046ef06eba1186aec034de8054a1e8b9728b9341d20d16dad21a381823",
+                "risk": "稳健型",
+                "profitType": 0,
+                "profitDesc": [
+                    {
+                        "name": "收益说明",
+                        "value": "不同产品的预期年化收益率的含义有所区别，产品托管费率和手续费请咨询具体发售机构。"
+                    }
+                ],
+                "earlyBack": -1,
+                "earlyTransfer": -1,
+                "investField": "债券混合",
+                "productType": 3103,
+                "activityTab": 0
+            },
+            {
+                "titleAll": "鹏华基金 - 鹏华丰实定期开放债券A",
+                "id": 347926485,
+                "title": "鹏华基金 - 鹏华丰实定期开放债券A",
+                "investCycle": "一个月以下",
+                "expectedProfitRate": "-3.70",
+                "expectedProfitName": "年净值增长率",
+                "lowestAmount": "1000元",
+                "breakEven": 0,
+                "supplierLogoUrl": "http://t10.baidu.com/it/u=4017202302,953395368&fm=58",
+                "rawUrl": "http://caifu.baidu.com/rcv?module=finance&u=010845fe4b9c6c87adbffc0fbf52f1216c300ad7e80c8cb2f36a10ae09dfc36d0ca704b7186ca089d8f8ac1f140805327e594bfe7aedfce737eae627445658ec37025cb2e7b5eac94be2ee0eb917df716ff6ed02422c8a6fe1d911847&o=010845fe4b9cdd361c0ac8ae9c3162a76f82c8c40a18fcc237cff55abc3ec2b96e8381533d8935c908d9587bb5785571cabcaf9acfe83cb2976ae7239053ce79a2567d32e7311b6c5f12ee7a68d67fc26a12a8a166693f3f558860c45cf46abbca075737dcc5fed91c8962251fbd8612d341e2be96a2d4be1ce9ec49d5e06720ecbc29e965a442c531910b632a49cea61cbd63a82d06365bb49a3d91bd28e68668ef14cbabb34efa2ea8b61efe43960c6f475435613c964e5f2ee7f976dc0a324402bfc8d35fa046ef06eba1186aec034de8054a1e8b9728b9341d20d16dad21a381823",
+                "risk": "稳健型",
+                "profitType": 0,
+                "profitDesc": [
+                    {
+                        "name": "收益说明",
+                        "value": "不同产品的预期年化收益率的含义有所区别，产品托管费率和手续费请咨询具体发售机构。"
+                    }
+                ],
+                "earlyBack": -1,
+                "earlyTransfer": -1,
+                "investField": "债券混合",
+                "productType": 3103,
+                "activityTab": 0
+            }
+        ],
+        "stats": {
+            "subqid": 1393989906844640,
+            "pssid": "0",
+            "sid": 0
+        }
+    }
+}
