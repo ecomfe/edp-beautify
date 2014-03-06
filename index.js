@@ -19,8 +19,6 @@ exports.process = function (args, opts) {
 
     var filename = args[0];
 
-    edp.log.info('beautifying file [' + filename + ']...');
-
     if (!filename) {
         edp.log.error('请输入要格式化的文件名');
         return;
