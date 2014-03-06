@@ -42,7 +42,7 @@ exports.process = function (args, opts) {
         options.indent = 4;
     }
 
-    require('./lib/beautify')(filename, options);
+    require('./lib/beautify.js')(filename, options);
 
 };
 

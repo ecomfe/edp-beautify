@@ -4,7 +4,7 @@
     "description": "edp-beautify =======",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
+        "test": "make -C test",
         "prepare": "npm ln edp-core"
     },
     "repository": {
