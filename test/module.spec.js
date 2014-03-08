@@ -14,6 +14,10 @@ var outputDir = 'output-files';
 
 describe('module loaded ok', function() {
 
+    if (!fs.existsSync(outputDir)) {
+        fs.mkdirSync(outputDir);
+    }
+
     // 清空输出文件夹
     base.cleanOutputDir(outputDir);
 
