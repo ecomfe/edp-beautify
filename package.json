@@ -4,8 +4,7 @@
     "description": "edp-beautify =======",
     "main": "index.js",
     "scripts": {
-        "test": "make -C test",
-        "prepare": "npm ln edp-core"
+        "test": "make -C test"
     },
     "repository": {
         "type": "git",
