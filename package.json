@@ -1,0 +1,26 @@
+{
+    "name": "edp-beautify",
+    "version": "0.0.1",
+    "description": "edp-beautify =======",
+    "main": "index.js",
+    "scripts": {
+        "test": "make -C test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/ecomfe/edp-beautify.git"
+    },
+    "dependencies": {
+        "edp-core": "~0.0.14",
+        "js-beautify": "~1.4.2",
+        "esprima": "~1.0.2",
+        "escodegen": "~1.2.0",
+        "cssbeautify": "~0.3.0"
+    },
+    "author": "virola.zhu@gmail.com",
+    "license": "BSD-2-Clause",
+    "bugs": {
+        "url": "https://github.com/ecomfe/edp-beautify/issues"
+    },
+    "homepage": "https://github.com/ecomfe/edp-beautify"
+}
