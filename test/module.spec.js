@@ -11,7 +11,6 @@ var beautify = require('../lib/beautify');
 var outputDir = 'output-files';
 
 
-
 describe('module loaded ok', function() {
 
     if (!fs.existsSync(outputDir)) {
@@ -149,7 +148,23 @@ describe('module loaded ok', function() {
         expect(fs.existsSync(outputFile)).toBe(true);
 
         expect(fs.readFileSync(outputFile, 'utf-8'))
-            .toBe(fs.readFileSync('input-files/expectTobe.html', 'utf-8'));
+            .toBe(fs.readFileSync('input-files/expectToBe.html', 'utf-8'));
+    });
+
+    // 增加了一个line-length参数，判断输出是否符合预期
+    it('beautify a html file, with option MAXLEN = 0', function() {
+        var outputFile = outputDir + '/line-length=0.html';
+
+        // 不限定行宽输出
+        beautify('./input-files/valid.html', {
+            maxlen: 0,
+            output: outputFile
+        });
+
+        expect(fs.existsSync(outputFile)).toBe(true);
+
+        expect(fs.readFileSync(outputFile, 'utf-8'))
+            .toBe(fs.readFileSync('input-files/expectToBe_lineLength0.html', 'utf-8'));
     });
 
 
