@@ -32,12 +32,16 @@ exports.process = function (args, opts) {
     var options = {
         fileType: opts.type,  // 指定文件类型
         indent: parseInt(opts.indent),  // 空格缩进个数
+        maxlen: parseInt(opts.maxlen),  // 最大行宽限制
         output: opts.o        // 输出文件
     };
 
     // 参数输入容错
     if (isNaN(options.indent)) {
         options.indent = 4;
+    }
+    if (isNaN(options.maxlen)) {
+        options.maxlen = 120;
     }
 
     require('./lib/beautify.js')(filename, options);

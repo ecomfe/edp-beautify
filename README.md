@@ -1,5 +1,7 @@
 edp-beautify
 ============
+[![Build Status](https://api.travis-ci.org/ecomfe/edp-beautify.png?branch=master)](https://travis-ci.org/ecomfe/edp-beautify)
+
 
 输出格式化的css、js和html。
 
