@@ -3,6 +3,8 @@ edp-beautify
 [![Build Status](https://api.travis-ci.org/ecomfe/edp-beautify.png?branch=master)](https://travis-ci.org/ecomfe/edp-beautify)
 
 
+[![Build Status](https://travis-ci.org/ecomfe/edp-beautify.png?branch=master)](https://travis-ci.org/ecomfe/edp-beautify) [![Dependencies Status](https://david-dm.org/ecomfe/edp-beautify.png)](https://david-dm.org/ecomfe/edp-beautify)
+
 输出格式化的css、js和html。
 
 [EDP](https://github.com/ecomfe/edp)下的一个工具模块，使用方法：

@@ -1,5 +1,2 @@
-all: 
-	env EDP_LOG_SLIENT=1 jasmine-node --nohelpers . 
-
-custom: 
-	jasmine-node --nohelpers .
+all:
+	env EDP_LOG_SILENT=1 jasmine-node --nohelpers .

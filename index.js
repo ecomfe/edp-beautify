@@ -10,7 +10,6 @@
   * @author  virola <virola.zhu@gmail.com>
   */
 
-var path = require('path');
 var fs = require('fs');
 
 var edp = require( 'edp-core' );
@@ -31,8 +30,7 @@ exports.process = function (args, opts) {
 
     var options = {
         fileType: opts.type,  // 指定文件类型
-        indent: parseInt(opts.indent),  // 空格缩进个数
-        maxlen: parseInt(opts.maxlen),  // 最大行宽限制
+        indent: parseInt(opts.indent, 10),  // 空格缩进个数
         output: opts.o        // 输出文件
     };
 
